@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Fullstack development
 - 👯 I’m looking to collaborate on new projects
 - 🤔 I’m looking for help with Blockchain 
-- 📫 How to reach me: subashsakthivel@gmail.com
+- 📫 How to reach me: subashsakthi01@gmail.com
 - ⚡ Fun fact: Problem Solving
 
 
