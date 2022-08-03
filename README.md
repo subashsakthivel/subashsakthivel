@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on Projects 
+- 🔭 I’m currently working on Block chain project
 - 🌱 I’m currently learning Fullstack development
 - 👯 I’m looking to collaborate on new projects
 - 🤔 I’m looking for help with Blockchain 
