@@ -10,11 +10,11 @@
 
 
 - 🔭 I’m currently working on Block chain project
-- 🌱 I’m currently learning Fullstack development
-- 👯 I’m looking to collaborate on new projects
+- 🌱 I’m medium level Fullstack developer
+- 👯 I’m glad to collaborate in innovative projects
 - 🤔 I’m looking for help with Blockchain 
 - 📫 How to reach me: subashsakthi01@gmail.com
-- ⚡ Fun fact: Problem Solving
+- ⚡ Fun fact: quick catching, think innovative
 
 
 <!--
