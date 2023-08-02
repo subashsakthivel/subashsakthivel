@@ -9,12 +9,8 @@
 
 
 
-- 🔭 I’m currently working on Block chain project
-- 🌱 I’m entry level Fullstack developer
-- 👯 I’m glad to collaborate in innovative projects
-- 🤔 I’m looking for help in Blockchain 
+- 👯 I’m glad to collaborate in innovative projects 
 - 📫 How to reach me: subashsakthiveldev@gmail.com
-- ⚡ Fun fact: quick catching, think innovative
 
 
 <!--
